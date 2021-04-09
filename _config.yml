@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              qkfka9045@gmail.com
 description:        KSB Open Source
 author:             Start Bootstrap
-baseurl:            "blog"
+baseurl:            "/blog"
 url:                "https://kang-seongbeom.github.io"
 
 # Social Profiles
