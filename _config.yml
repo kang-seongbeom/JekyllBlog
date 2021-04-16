@@ -2,12 +2,12 @@ title: 강성범의 portfolio
 email: qkfka9045@gmail.com
 description: KSB Open Source
 author: Start Bootstrap
-baseurl: "/blog"
+baseurl: ""
 url: "https://kang-seongbeom.github.io/JekyllBlog/"
 
 # Social Profiles
 #twitter_username:   SBootstrap
-github_username: https://github.com/kang-seongbeom?tab=repositories
+github_username: https://github.com/kang-seongbeom
 #facebook_username:  StartBootstrap
 #instagram_username:
 #linkedin_username:
