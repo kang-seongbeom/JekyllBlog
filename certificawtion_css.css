@@ -1,0 +1,66 @@
+/*스크롤 안보이게, 배경 설정*/
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  background-image: url("small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/*전체 화면*/
+#wrap {
+  padding-top: 20px;
+  text-align: center;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+/*wrap의 p 폰트 설정*/
+#wrap p {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/*제목*/
+#header {
+  height: 15%;
+  margin-bottom: 45px;
+}
+
+/*내용 부분을 3분할*/
+#frame1 {
+  width: 33%;
+  float: left;
+  border-right: 1px solid gray;
+}
+
+#frame2 {
+  width: 33%;
+  float: left;
+  border-right: 1px solid gray;
+}
+#frame3 {
+  width: 33%;
+  float: left;
+}
+
+/*hr설정*/
+hr {
+  margin: 20px;
+  border-color: rgb(157, 164, 168);
+}
+
+/*내용과 폰트 설정, font-family=좌측부터 현재 사용 할 수 있는 폰트 우선순위로 폰트사용.
+letter-spacing=자간.*/
+h4 {
+  font-family: "돋움", dotum, "굴림", gulim, arial, helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: 30px;
+  padding: 5px;
+  text-align: left;
+}
