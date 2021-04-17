@@ -1,0 +1,27 @@
+#content {
+  width: 70%;
+  height: auto;
+  float: left;
+}
+
+#frame {
+  width: 29%;
+  height: auto;
+  float: left;
+}
+
+iframe {
+  height: 350px;
+  width: 200px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow: hidden;
+}
+
+#awframe {
+  margin-top: 150px;
+}
+
+#cerframe {
+  margin-top: 50px;
+}

@@ -1,0 +1,20 @@
+.list {
+  width: 99%;
+  height: auto;
+  display: inline-block;
+}
+
+.title {
+  width: 30%;
+  height: auto;
+  float: left;
+  border-right: 1px solid #000;
+  text-align: start;
+}
+
+.content {
+  width: 69%;
+  height: auto;
+  float: left;
+  text-align: start;
+}
