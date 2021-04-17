@@ -12,7 +12,9 @@ background: "/img/posts/06.jpg"
 
 #### 학과: 컴퓨터공학과
 
-#### [깃 페이지 연결](https://kang-seongbeom.github.io/JekyllBlog/)
+#### [Repository](https://github.com/kang-seongbeom/JekyllBlog)
+
+#### [자기소개 사이트](https://kang-seongbeom.github.io/JekyllBlog/)
 
 ## 간단 자기소개
 
